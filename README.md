@@ -1,4 +1,4 @@
-# Data Science2 Assignment
+# Data Science2 Semantic Segmentation for my Task
 
 ## Version
 * OS Ubuntu 4.15.0
